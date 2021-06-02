@@ -1,0 +1,828 @@
+<resources>
+    <string name="aboutname">Gokul Mimrot</string>
+    <string name="aboutinfo">Student of Computer science </string>
+    <string name="aboutcol">Yeshwantrao Chavan College Sillod Tq.Sillod Dist.Aurangabad</string>
+    <string name="aboutname1">Mahesh Solanke</string>
+    <string name="aboutinfo1">Student of Bsc</string>
+    <string name="aboutcol1">Adarsh collage Rajur Tq.Bhokardan Dist.Jalna </string>
+    <string name="app_name">Olakh Sangnkachi </string>
+    <string name="logo_text">vksG[k  </string>
+    <string name="logo_text2"> lax.kdkphk   </string>
+    <string name="anukrmanika">Chapters </string>
+    <string name="lpageL1">lax.kdkph rksaMvksG[k</string>
+    <string name="lpageL2">lax.kdkpk bfrgkl</string>
+    <string name="lpageL3">lax.kdkP;k fi&lt;;k</string>
+    <string name="lpageL4">lax.kdkps izdkj </string>
+    <string name="lpageL5">buiqV midj.k</string>
+    <string name="lpageL6">vkÅViqV midj.ks</string>
+    <string name="lpageL7">lkWQ+Vosvj vkf.k gkMZosvj </string>
+    <string name="lpageL8">izk;ejh o lsadaMjh LVksjst</string>
+    <string name="lpageL9">dkWEI;qVj usVodZ</string>
+    <string name="lpageL10">izksxzfeax yWXostl+ </string>
+    <string name="lpageL11">Lkax.kdh; xqUgs</string>
+    <string name="p1h1">lax.kdkph rksaMvksG[k </string>
+    <string name="p1h2"> gtkjks o”kkZaiqohZ ekuo gkrkP;k o ik;kP;k cksVkapk mi;ksx eksteki dj.;klkBh djhr vls- cksVkaph la[;k e;kZfnr vlY;keqGs rks uarj nxM]xksVs][kMs b- pk okij d# ykxyk- uarj ek.kwl tsOgk O;kikj d# ykxyk] laiRrhpk fg’kksc Bsow ykxyk] uouohu la’kks/ku d# ykxyk rsOgk R;kyk xq.kkdkj] Hkkxkdkj] csjht o otkckdh ;k fdz;kaph iVd.k mRrjs feGfo.;klkBh R;kyk la[;k;a=kph xjt Hkklw ykxyh- rls la[;k x.kd ;a=gh r;kj >kys- ;k la[;kx.kd ;a=kykp lax.kd Eg.kw ykxys-
+</string>
+    <string name="p1h3"> dkWEI;qVj Eg.kts dk; \  </string>
+    <string name="p1h4">1½ lax.kd gs ,d vls midj.k vkgs dh] ts okijdR;kZdMwu ekfgrh ?ksrs] rh lkBfors vkf.k R;k ekfgrhoj izfdz;k d#u fudky nk[kors-
+</string>
+    <string name="p1h5"> 2½dkWEI;qVj gs ,d fo|qr ;a= vlwu rs vkiY;kdMqu ekfgrh ?ksrs] rh lkBfors o lkBfoysY;k ekfgrhoj izfdz;k d#u vkiY;kleksj ,d vFkZiq.kZ fudky lknj djrs-
+</string>
+    <string name="p1h6"> gk lxa.kdkpk esnaw vlrks- ;ke/;s ekfgrh lkBoyh tkrs- uarj rh
+ekfgrh lax.kdkP;k loZ Hkkxkae/;s ikBoyh tkrs-</string>
+    <string name="p1h7">gk lax.kdkP;k loZ Hkkxkaoj fu;a=.k Bso.;kps dke djrks- </string>
+    <string name="p1h8"> ;ke/;s xf.krh; Hkkx vkf.k rkfdZd dk;Z pkyrs- </string>
+    <string name="p1h9"> okijdrkZ lax.kdkyk th ekfgrh nsrks R;kl buiqV vls Eg.krkr-
+¼v{kjs]vad]fp=]pyfp= b- Lo#ikr½ </string>
+    <string name="p1h10"> okijdrkZ lax.kdki;Zar ekfgrh ikBfo.;klkBh T;k lk/kukapk okij
+djrks R;kl buiqV midj.ks Eg.krkr-</string>
+    <string name="p1h11">‘kCn]/ouh]izfrek b- ps lax.kdkyk letsy v’kk
+Hkk”ksr #ikarj dj.kkjs gkMZosvj midj.ks Eg.kts buiqV midj.ks mnk-
+fdcksMZ] ekÅl] LdWuj b- </string>
+    <string name="p1h12"> ¼izfdz;k½ vki.k fnysY;k ekfgrhoj flfLVe ;qfuV vkiY;kyk goh r’kh izfdz;k
+djrks- </string>
+    <string name="p1h13">lax.kdkdMqu izfdz;k gksmu okijdR;kZyk th ekfgrh feGrs R;kl vkÅViqV
+Eg.krkr- FkksMD;kr loZ izfdz;k >kY;kuarj vkiY;kyk feG.kkjk fudky fdaok ifj.kke Eg.ktsp vkÅViqV </string>
+    <string name="p1h14"> lax.kdkdMqu okijdR;kZi;Zar ekfgrh ;s.;klkBh T;k lk/kukapk okij gksrks
+R;kl vkmViqV midj.ks Eg.krkr </string>
+    <string name="p1h15">lax.kdkus dsysyh izfdz;k okijdR;kZyk letsy v’kk Lo#ikr #ikarj
+dj.kkjs gkMZosvj midj.k Eg.kts vkÅViqV midj.ks gks;- mnk ekWfuVj] fizaVj] fLidj b- </string>
+    <string name="p1h16"> lax.kd vkf.k ekuo %</string>
+    <string name="p1h17">dkWEI;qVjph dk;Zi/nrh gh ekuokP;k dk;Zi/nrhlkj[khp vlY;kps vki.kkl fnlqu
+;sbZy- vkiY;kyklq/nk ,[kkns dk;Z djrkauk buiqV izkslsl vkÅViqV ;k rhu VII;kusp dk;Z djkos ykxrs- ;kfo”k;hph vf/kdph ekfgrh vki.k c?kq mnk- vki.k ,[kknh ekfgrh ?ks.;klkBh MksGs o dku ¼buiqV½ ;klkj[;k vo;okapk
+mi;ksx gksrks- ;k}kjs c?khrysyh],sdysyh ekfgrh esanqr lkBoqu ¼LVksjst½ R;k ekfgrhoj ;ksX;
+fopkj d#u ¼izkslsl½ leksjP;kyk leiZd vls mRrj nsrks ¼vkÅViqV½-
+,[kknh oLrq c?khrY;kuarj R;ko#u ,[kk|k oLrqpk vkdkj dlk vkgs\ frpk jax dlk vkgs\ b- ckchaph ekfgrh vki.k lkxaq ‘kdrks- ;kpizek.ks vkiys brj Kkusfanz; vkgsr
+T;kaP;kekQZr lq/nk vki.k Kku xzg.k d# ‘kdrks fdaok ekfgrh feGow ‘kdrks- mnk-dku ¼,sd.ks½] ukd ¼xa/k½] thHk ¼po½] Ropk ¼Li’kZ Kku½- tj vkiY;kyk gs bafnz; ulrsp rj
+vkiY;kyk dqBY;kgh izdkjps Kku izkIr >kys ulrs- ;kpk vFkZ gkp fd] dqBY;kgh KkuizkIrhlkBh fdaok ekfgrh izkIr dj.;klkBh vo;okadMqu ekfgrh izkIr gks.ks xjtsps vlrs- R;kykp lax.kdkP;k Hkk”ksr vki.k buiqV vls Eg.krks dkWEI;qVjlq/nk buiqV midj.kka}kjs ¼fdcksMZ]ekÅl]LdWuj½ ekfgrh ?ksrks- gh ekfgrh flfLVe ;qfuVe/;s lkBforks ¼esejh½- lkBfoysY;k ekfgrhoj ;ksX; izfdz;k d#u vkÅViqV
+midj.kka}kjs leiZd mRrj lknj djrks ¼vkÅViqV½-
+ojhy mnkgj.kko#u vkiY;k y{kkr vkys vlsy fd] ekuo o lax.kd gs nks?ksgh loZizFke ekfgrh feGorkr R;kuarj rh ekfgrh laxzfgr d#u uarj R;koj fopkj vFkok
+izfdz;k d#u ;ksX; rks fu.kZ; Eg.ktsp fudky nsrkr vkiY;kyk ojhy ckchao#u ekuokr vkf.k lax.kdkr cjsp lkE; fnlys- i.k lax.kd vkf.k ekuo ;kaP;ke/;s ,d [kqi eksBk Qjd vkgs- rks Eg.kts ekuo gk ltho vkgs] rks
+fopkj d# ‘kdrks] R;kyk Hkkouk vlrkr] eu o laosnuk vlrkr- ;k myV lax.kd gk
+        futhZo vkgs] rks fopkj d# ‘kdr ukgh] R;kyk Hkkouk] laosnuk ukghr- dkj.k rs ,d
+futhZo ;a= vkgs
+    </string>
+    <string name="p1h18"> lax.kdkps mi;ksx %</string>
+    <string name="p1h19"> lax.kdkpk mi;ksx cgqrka’khfjR;k izR;sd {ks=kr gksrks- R;keqGs lax.kd gs txkrhy
+lokZr osxoku ek/;e cuys vkgs- lax.kdkpk fo’ks”kr% dks.kR;k {ks=kr mi;ksx dsyk tkrks gs vki.k c?kq vkS|ksfxd {ks=] fizafVax VsDukWykWth] vkWVkseksckbZy] gkWVsYl] gkWfLiVYl] f’k{k.k] lafxr o fp=iV] izfl/nh ek/;es b- {ks=kae/;s lax.kdkpk okij eksB~;k izek.kkr gksr vlY;kps vki.kkl fnlqu ;srs </string>
+
+    <string name="p1h20"> lax.kdkps xq.k/keZ %</string>
+    <string name="p1h21">lax.kdkps xq.k/keZ [kkyhyizek.ks lkaxrk ;srhy</string>
+    <string name="p1h22">xrh] lkBo.kqd Lo;apyhr ] fofo/krk </string>
+    <string name="e">Speed, Storage, Automatic, Versatility</string>
+
+
+    <string name="p2h1"> lax.kdkpk bfrgkl</string>
+    <string name="p2h2">vktiklwu lqekjs ikpgtkj ikp’ks o”kkZaiqohZ vcWdl ;k ‘kkL=Kkus ifgY;k x.kd;a=kpk tUe >kyk- R;keqGs ;k ;a=kyk vcWdl vls Eg.krkr-;k midj.kk}kjs rkjk vlysY;k pkSdVhe/;s Bsoysys e.kh ljdowu ekst.kh dj.;kr ;sr vls- ;k midj.kkpk eqG gsrw gk ekst.kh dj.;klkBh gksrk- ;ke/;s vk;rkd`rh pkSdV vlwu R;kr rkjk tksMysY;k gksR;k- izR;sd rkjse/;s vusd e.kh gksrs- ;k e.;kapk mi;ksx ekst.kh dj.;klkBh dsyk tkr gksrk-</string>
+    <string name="p2h3">  usfivlZ cksUl %</string>
+    <string name="p2h4">b-l-1600P;k lqekjkl tkWu usfivj ;k ‘kkL=Kkus ykWxWfjFke ;k i/nrhoj vk/kkfjr ykacV pkSdksuh BksdG~;kojhy cad tqGowu R;k vadkpk lgti.ks xq.kkdkj djrk ;kok Eg.kwu 1 rs 9 vad vl.kk;k iV~V;k r;kj dsY;k gksR;k- vla EgVya tkra fd] usfivjus ykac iV~V;kalkBh gkMkapk okij dsyk gksrk R;keqGs ;kl usfivlZ cksUl vls uko iMys-</string>
+    <string name="p2h5"> ljdiV~Vh</string>
+    <string name="p2h6">b-l-1621 e/;s foY;e vkÅV VªsMZlus usfivjP;k ;k
+midj.kkr dkgh lq/kkj.kk dsY;k- R;kus ,desdkauk ljdfork
+;s.kk;k nksu ykdMh iV~V;kaoj gs vkdMs clfoys- ;k midj.kkyk LykbZM #yj vls uko fnys- 17O;k ‘krdkuarj ;k midj.kkpk eksB~;k izek.kkoj okij dj.;kr vkyk-</string>
+    <string name="p2h7">ikLdy</string>
+    <string name="p2h8">dkxn o isfUlypk okij ok yk rsOgk x.ku ;a=kae/;s lq/kkj.kk >kY;k- 1642 e/;s Cykbl ikLdyus ikLdykbZu ukokpk lkaf[;dh; pdzkP;k dWyD;qysVjpk ‘kks/kk ykoyk- ;k firGh  vk;rkd`rh ckWDle/;s nkrsjh pkds
+    okijyh gksrh- gh pkds R;kus ,dk vksGhr cloyh gksrh- izR;sd pkdkoj 0 rs 9 gs vad dzekus fyfgys gksrs- gh pkds ?kM~;kGkP;k fn’ksus ok fo#/n fn’ksus fQ#u csjht djrk ;sr vls- ;k ;a=kr vkB pkds gksrh- R;keqGs ;k}kjs vkB vadh la[;sph csjht djrk ;sr vls- xf.krkrhy gkrpk ?ks.;kph ;k ;a=k}kjs lks; >kyh</string>
+    <string name="p2h9">   xkWVQkbM foY;e okWu yWofu>us ikLdyP;k midj.kkr lq/kkj.kk d#u csjtscjkscjp xq.kkdkj dj.kkjs ;a= r;kj dsys- R;kuarj dkWyejP;k FkkWelus ikLdykbZue/;s vf/kd lq/kkj.kk dsyh vkf.k vfjFkksehVj ukokP;k O;kolk;hd dWyD;qysVjph jpuk dsyh-</string>
+    <string name="p2h10"> fMQjUl baftu %</string>
+    <string name="p2h11"> b-l- 1822 e/;s baXyaMe/khy ,dk xf.krh; ‘kkL=Kkus o pkyZl cWcst ;kauh feGwu fMQjUl baftu gs ;a= cuoys- ;k ;a=kr NikbZ gksr uls- gh mRrjs fygwu ?;koh ykxr vlr- i.k 20 n’kka’k fpUgkai;Zar vkdMseksM d#u fcupqd mRrj nsow ‘kd.ks gs ;kps oSf’k”V~;s gksrs-</string>
+    <string name="p2h12"> vWuWfyfVdy baftu </string>
+    <string name="p2h13">lk/kkj.kr% 1830 e/;s pkyZl cWcst ;kauh vWuWfyfVdy baftu cufoys- ;k ;a=ke/;s fo’ys”kuklg ekfgrh nsrk ;sow ykxyh- R;ke/;s lkBo.k ‘kDrh] fu;a=.k d{k] xf.krh; izfdz;k dj.kkjk foHkkx o ekfgrh ?ks.ks o nk[ko.ks gs pkj izdkj R;kO;Drhus r;kj dsys- ijarw R;kyk ;k ;a=kps dke v/kZoV lksMkos ykxys- dkj.k ;k ;a= fufeZrhlkBh ljdkjus R;kyk vkfFkZd enr dj.ks can dsys gksrs- rjhlq/nk pkyZl cWcst ;kl lax.kdkpk tud ekuys tkrs- R;kps dkj.k Eg.kts R;kus r;kj dsysY;k vWuWfyfVdy baftue/;s vktP;k lax.kdkphp oSf’k”V~;s gksrh-</string>
+    <string name="p2h14"> iapdkMZ</string>
+    <string name="p2h15">MkW- gjeu gkWysfjFk ;kus loZizFke fNnz ikMysys iapdkMZ r;kj dsys- ;klkBh R;kauh pkyZl cWcst ;kaP;k ;a=kiklwu o R;kaP;k ladYiusrwu izsj.kk ?ksryh- o uohu ;a= fodlhr dsys- R;ke/;s fNnz ikMysyh
+     dkMsZ okijyh- R;koj ekfgrh lkBfork ;sr vls] R;kojhy ekfgrh fo|qr midj.kkP;k enrhus okprk ;sr vls- ;k ;a=keqGs lax.kdklaca/khP;k la’kks/kukl osxkus lq#okr >kyh-</string>
+    <string name="p2h16">  QLVZ izksxzkej %</string>
+    <string name="p2h17">vxLrk yousl @ ysMh vWMkus vWuWfyfVdy e’khulkBh ,d izksxzke ‘kks/kwu dkykfrus
+        dkWEI;qVj izksxzkfeax o izksxzke fM>kbZue/khy dkgh egRokP;k xks”Vhapk ‘kks/k ykoyk- Eg.kwu
+fryk txkrhy vk| izksxzkej Eg.krkr-</string>
+    <string name="p2h18"> cwysu ykWftd fizUlhiYl %</string>
+    <string name="p2h19">19O;k ‘krdkrhy vtwu ,d xf.krrK tkWtZ cwys ;kus rdkZf/k”B fFkvjh fodflr
+dsyh th lax.kdklkBh [kqip egRokph Bjyh- R;kus cwysu ykWftd fizUlhiYl izfl/n dsyh-
+T;kr pqd cjkscj vls nksup Ik;kZ; gksrs-</string>
+    <string name="p2h20">   ck;ujh uaclZ %</string>
+    <string name="p2h21"> tkWu OgkWu U;qeu ;kus dkWEI;qVj ;a=.ksr ck;ujh uaclZpk okij varxZr MsVk LVksvj
+dj.ks o izksxzkfeaxP;k ladYiuk ekaMY;k- </string>
+    <string name="p2h22"> ifgys bysDVªkWfud ef’ku %</string>
+    <string name="p2h23">b- l- 1940 e/;s buWd ukokps ifgys bysDVªkWfud e’khu lknj dj.;kr vkys</string>
+
+
+    <string name="p3h1">ifgY;k tujs’kups dkWEI;qVj Eg.kts v’kh e’khUl
+T;kr OgWD;qe V;qCt okij.;kr
+vkY;k gksR;k- ;k dkGkr paqcdh; MªkbZOgt~ o pqca dh;
+dksvj esejht~ fodflr dj.;kr vkY;k- ;k lax.kdke/;s
+OgkWYOg okij.;kr ;sr vlr R;keqGs ;kpk vkdkj eksBk o fdaer
+T;kLr gksrh- lokZr ifgY;k tujs’kuP;k lax.kdkph
+oSf’k”V;s [kkyhy izek.ks vkgsr-</string>
+    <string name="p3h2">1½ eksBk vkdkj 2½ dkekpk osx deh 3½ e;kZfnr
+izksxzkfeax {kerk 4½ deh fVdkÅ 5½ fDy”V ns[kHkky</string>
+    <string name="p3h3">;k lax.kdke/;s VªkU>hLVlZ pk okij dsyk xsyk- mnk- OgWD;qe V;qCt P;k cnY;kr VªkU>hLVlZ pk okij dsyk xsyk- VªkU>hLVlZ gs tyn vkWijsfVax fMOgkbZl vkgs-ighY;k Tkujs’;.k e/khy lax.kdkis{kk ;k Tkujs’;.k  ps lax.kd tyn vkgsr- ;k Tkujs’;.k lax.kd gs deh xje gksrkr o ;k lax.kdkyk deh tkxk o deh fot ykxrs-</string>
+    <string name="p3h4">;k lax.kdke/;s bafVxzsVsM lfdZV pk okij dj.;kr
+;sr vls- tsOgk ,d flfydkWu fpioj ‘ksdMks
+VªkfU>LVlZ clork ;sÅ ykxys- rks lokZr
+egRokpk VIik gksrk- rs nqlj;k fiMhis{kk ygku
+gksrs] osxoku gksrs] LoLr gksrs- lax.kdkP;k frl#;k fiMhiklwu LVksjst] buiqV] vkÅViqV
+;klkj[kh vf/kd osxoku o vf/kd izxr lk/kus okijyh tkÅ ykxyh-
+</string>
+    <string name="p3h5">;k lax.kdke/;s ek;dzks izkslsllZ
+okijys tkrkr- gs vkdkjkus vxnh ygku
+vlrkr- ts vadxf.kr] rkfdZd] dzeokj
+ik;;kauh dkes d# ‘kdrkr- ;kpk
+vkdkj ygku dj.;klkBh lkrR;kus
+la’kks/ku lq# vlrs- R;krqup yktZ Ldsy
+bafVxzs’ku ra=Kku fodflr >ky sbaVsy
+dkWiksZjs’kuus ,y-,l-vk;- fpIlpk okij ek;dzksizkslsllZ cufo.;klkBh dsyk- ,y-,lvk;-
+fpIl okij.kk;k lax.kdkauk pkSF;k fiMhrhy lax.kd Eg.kwu lacks/kys tkrs-
+</string>
+    <string name="p3h6">okijys tkrkr-</string>
+    <string name="p3h7">;k flfLVe ,DliVZ flfLVEl Eg.kwu vksG[kY;k tkrkr- ;kykp d`f=e cq/nheRrk vlsgh Eg.krkr- ts ek.kwl o e’khu ;krhy lqlaokn izHkkoh djsy
+v’kk ra=Kkukpk okij lax.kdkP;k ikpO;k fi&lt;he/;s dj.;kr ;sbZy- ;k
+fiMhe/;s cq/nheRrk iznku dj.;kpk iz;Ru vkgs- ek= gs la’kks/ku vtwu
+ckY;koLFksr vkgs- rjhgh vusd laHkk”k.k vksG[k.kk;k ;a=.kk o jksckst gh
+R;kph ,d >ydp Eg.kkoh ykxsy- d`f=e cq/nheRrspk mn~ns’k ekuokyk R;kph dk;Z{kerk
+oko.;klkBhp gksbZy
+</string>
+
+
+    <string name="p4h1">lax.kdkps eq[; pkj izdkj iMrkr-</string>
+    <string name="p4h2">1½ lqij dkWEI;qVj @egklax.kd %</string>
+    <string name="p4h3">gk lax.kd brj brj lax.kdkaP;k rqyusr lokZf/kd ‘kDrh’kkyh
+    vlwu ;kpk mi;ksx varjkG {ks=k’kh fuxMhr vodk’k
+    la’kks/kuklkBh dsyk tkrks-txkrhy ifgyk
+    lax.kd vk;-ch-,e- daiuhus 1980 e/;s
+    r;kj dsyk o R;kyk iWjkxkWu vls uko ns.;kr
+    vkys- Hkkjrkrhy ifgyk lqij dkWEI;qVj
+    lhMWd ;k iq.ks ¼egkjk”Vª½ ;sFkhy daiuhus 1991 e/;s r;kj dsyk o
+    R;kyk ije10000 vls uko ns.;kr vkys- gk lax.kd cufo.;klkBh
+    lax.kdrK MkW-fot; HkVdj o R;kaP;k lgdk;kZauh [kqi ifjJe ?ksrys-
+    </string>
+
+    <string name="p4h4">2½ esuQzes dkEWI;qVj %</string>
+    <string name="p4h5">gk lax.kd lqij dkWEI;qVj brdk
+    ‘kDrh’kkyh ulyk rjh ;kph lkBo.kwd {kerk [kqi vkgs-
+    ;koj ,dkp osGh vusdt.k dke d# ‘kdrkr- okijdrsZ
+    ;kyk vkiyh dkes lkaxq ‘kdrkr- R;keqGs ;k lax.kdkpk
+    mi;ksx eksBeksB~;k cWadk rlsp foek daiU;kaP;k gtkjks
+    ikWfylh /kkjdkaP;k ri’khykoj izfdz;k dj.;klkBh dsyk
+    tkrks- ;k lax.kdkyk okrkuqdwyhr tkxkp ykxrs gs ;k
+    lax.kdkps oSf’k”V~; vkgs-</string>
+    <string name="p4h6">3½ feuh dkWEI;qVj %</string>
+    <string name="p4h7">;k lax.kdkyk e/;e iYY;kps lax.kd vlsgh Eg.krkr- ;k lax.kdkpk vkdkj jsfQztjsVj
+    ,ok vlrks- ;kpk mi;kxs oLrqpa s mRiknu gks.kk;k ekBs ekBs ~;k
+    daiU;kae/;s dsyk tkrks- ;k laxkdkP;k enrhus oLrqP;k mRiknukoj
+    rlsp fufeZrhoj fu;a=.k Bsork ;srs- ;k lax.kdkph fufeZrh bl-1960
+    e/;s >kyh-
+    </string>
+    <string name="p4h8">4½ ek;dzks dkWEI;qVj %</string>
+    <string name="p4h9">gk lax.kd ojhy loZ lax.kdkaP;k rqyusr deh ‘kDrh’kkyh o deh osxoku
+vlyk rjh lq/nk ;kpk mi;ksx txke/;s lokZf/kd dsyk tkrks- dkj.k ;k lax.kdkpk
+vkdkj]fdaer o dk;Z{kerk yksdkauk goh R;kizek.kkr ;ksX; vkgs- R;keqGsp ;k lax.kdkpk
+mi;ksx ‘kkldh;]fue’kkldh; dk;kZy;kae/;s] O;olk;klkBh] ?kjxqrh dkeklkBh dsyk tkrksek;
+dzks dkWEI;qVjps izdkj %</string>
+    <string name="p4h10">1½ MsLdVkWi dkWEI;qVj 2½ uksVcqd dkWEI;qVj3½ VWCysV ih-lh-4½ gW.MgsYM dkWEI;qVj</string>
+
+
+    <string name="p5h1">buiqV midj.k</string>
+    <string name="p5h2">buiqV Eg.kts dk;\ ;kph O;k[;k vki.k ;kiqohZp c?khryh- lax.kdkyk dks.kdks.krh
+buiqV midj.ks tksMysyh vlrkr] rh dk;Z d’kk izdkjs djrkr] R;kapk mi;ksx dks.kR;k
+izdkjph ekfgrh lax.kdkyk iqjfo.;klkBh gksrks ;k fo”k;h lfoLrj ekfgrh c?kq;k-</string>
+    <string name="p5h3">1½ fdcksMZ</string>
+    <string name="p5h4">fd cksMZ gs buiqV midj.kkae/;s lokZf/kd izek.kkr okijys tk.kkjs midj.k vkgsdkj.
+k dks.kR;kgh izdkjph ekfgrh fdcksMZP;k enrhusp lax.kdkyk nsrk ;srs- fdcksMZyk
+d;q MC;q b vkj Vh ok; vlsgh Eg.krkr- dkj.k fdcksMZojhy ifgY;k lgk v{kjkaph vYQkcsVhdy jpuk
+;kizek.ks vlrs- ;kykp ;qfuOglZy dhcksMZ vlsgh Eg.krkr- gh jpuk iqohZP;k eWdWfudy
+VkbZijk;Vj izek.ks dsysyh vkgs- ;k ekaM.khuqlkj lax.kdke/;s ekfgrh VkbZi dj.ks vf/kd
+lksis gksrs-</string>
+    <string name="p5h5">1½ fdcksMZps izdkj % fdcksMZps eq[; ikp izdkj iMrkr-</string>
+    <string name="p5h6">¼ijaijkxr
+    fdcksMZ½ % gk fdcksMZ Bjkohd o eksB~;k
+    vkdkjkpk vlrks- ;k fdcksMZpk vkdkj gk
+    vk;rkd`rh vlrks</string>
+    <string name="p5h7">¼,jxkWukWfed fdcksMZ½% gk
+fdcksMZ ijaijkxr fdcksMZ lkj[kkp vlrks- ek=
+lax.kdkoj clwu lrr fdcksMZpk okij dsY;kus
+euxVkoj rk.k iMrks- R;keqGs euxVkoj rk.k iMq u;s
+;klkBh ;kyk ikejsLV fnysyk vlrks-</string>
+    <string name="p5h8">¼yofpd fdcksMZ½ %  gk
+fdcksMZ yophd
+Lo#ikpk vlY;kizek.ks ;kyk xqaMkGqu Bso.ks lksis tkrs- rlsp
+;kph ?kMh ?kkyrk ;srs- [kkyh iMY;koj rqV.;kpk /kksdk
+ulrks- gk fdcksMZ lrr fQjrs dke dj.kk ;kauk mi;qDr
+vkgs</string>
+    <string name="p5h9">¼fcurkjh fdcksMZ½ %  ;k fdcksMZyk
+ukokizek.ksp dqBysgh ok;j ulrs- gk lsyoj Eg.ktsp cWVjhoj
+pkyrks- R;keqGs gkrkG.;kl lksik tkrks-</string>
+    <string name="p5h10">¼ih-Mh-,- fdcksMZ½ % gs fdcksMZ ih-Mh-,- dkWEI;qVjlkBh okijys
+tkrs- gk cksMZ vfr’k; ygku vkdkjkpk vlrks- ;kpk mi;ksx bZ esy ikBfo.;klkBh rlsp
+fof’k”V Lo#ikr MkWD;qesaV r;kj dj.;klkBh gksrks
+</string>
+    <string name="p5h11">2½ ikWbZafVax midj.ks</string>
+    <string name="p5h12">ikWbZafVax midj.k gs flLVhe ;qfuV e/kY;k gO;k R;k fcanqoj tk.;klkBh
+Eg.ktsp ikWbZaVjph gkypky fu;a=hr dj.;klkBh okijys tkrs- mnk- ekÅl] tkW;fLVd]
+VpLdzhu] ykbZV isu] LVk;yl b-
+R;krhy dkgh ikWbZafVax midj.kkapk vki.k [kkyhy izek.ks vH;kl d#- </string>
+    <string name="p5h13">1½ ekÅl %</string>
+    <string name="p5h14">¼Mkos cVu½ % cgqrsd dkes MkohdMhy
+    cVu oki#up dsyh tkrkr- ikWbZaVj gO;k R;k fn’ksyk Bsoyk
+    dh ekÅps Mkos cVu nkckos-</string>
+    <string name="p5h15">¼mtos cVu½ % gs cVu dkgh fo’ks”k dkes
+dj.;klkBh okijys tkrs- mnk- QkbZyph fdaok lysDV dsysY;k v{kjkaph dkWih dj.ks]
+dkq.k Vkd.ks b-</string>
+    <string name="p5h16">¼fOgy cVu@LdzkWy cVu½ % ist [kkyh vFkok ojP;k
+cktqus ljdo.;klkBh ;k cVukpk okij dsyk tkrks- </string>
+    <string name="p5h17">ekÅlps eq[; rhu izdkj iMrkr-</string>
+    <string name="p5h18">1½ esdWfudy ekÅl %
+;k izdkjP;k ekÅlP;k rGk’kh jcjh fdaok /kkrqpk xksykdkj fQj.kkjk psaMq vlrks- gk ekÅl xqGxqGhr i`”BHkkxko#u fdaok ekÅl iWM o#u fQjoyk fd jksyj ckWy fQjrks o R;keqGs ekWfuVjojpk ikWbZaVj fu;af=r dsyk tkrksgk
+ekÅl QDr xqGxqGhr i`”BHkkxkojp O;ofLFkr pkyrks- rlsp ;kyk osGksosGh LoPN dj.;kph xjt vlrs-
+</string>
+    <string name="p5h19">2 ½ vkWfIVdy ekÅl %
+;k izdkjP;k ekÅlP;k rGk’kh fQj.kkjk psaMq ulrks- rj] ekÅl ckgsj iM.kkjk izdk’k ikWbZaVjoj fu;a=.k Bso.;kps dke djrks- gk ekÅl dks.kR;kgh izdkjP;k i`”BHkkxkoj okijrk ;srks- R;kpcjkscj esdWfudy ekÅlizek.ks ;kyk osGksosGh LoPN dj.;kph xjt ulrs-
+</string>
+    <string name="p5h20">3 ½ fcurkjh ekÅl %
+;k ekÅlyk dqBY;kgh izdkjps ok;j ulrs- gk ekÅl cWVjhoj pkyrks flLVhe ;qfuV’kh laidZ lk/k.;klkBh gk ekÅl jsfMvks ygjh fdaok bUQzkjsM ygjhapk okij djrks- ;k ekÅlyk ok;jph xjt ulY;keqGs gk ekÅl lgt okijrk ;srks
+</string>
+    <string name="p5h21">s brj ikWbZfVax midj.ks %</string>
+    <string name="p5h22">1½tkW;fLVd% dkWEI;qVjoj osxkus xse [ksG.;klkBh ;k midj.kkpk mi;ksx
+gksrks- tkW;fLVdpk okij osx o fn’kk fu;af=r d#u [ksGkrhy gkypkyh fu;af=r dj.;klkBh
+dsyk tkrks- fo’ks”k gkypkyhalkBh cVUl o fVªxj ;klkj[ks tkLrhps daVªksYlgh ;koj vlrkr-
+</string>
+    <string name="p5h23">2½ ykbZVisu½ % gs izdk’k laosnu{ke isulkj[ks fnl.kkjs midj.k vkgs- ;kP;k
+enrhus fMLIys fLdzuojhy vkd`R;k] etdqj ikWbZaVjP;k gkypkyha}kjs lysDV fdaok eqOg djrk
+;srkr- ykbZV isu ekWfuVjoj /kjys tkrs- R;keqGs R;keqGs QksVks bysfDVªd lfdZV can gksrs
+vkf.k dkWEI;qVje/;s ekfgrh lkBfork ;srs fdaok R;k ekfgrhe/;s cny djrk ;srks-
+</string>
+    <string name="p5h24">3½LVk;yl½% ih-Mh-,- ;k dkWEI;qVjlkBh buiqV midj.k Eg.kwu ;kpk mi;ksx
+gksrks- gs midj.k isulkj[ks vlrs- LVk;yl gLrk{kj vksG[kh}kjs dkWEI;qVj’kh laidZ lk/krs-
+
+\n  4½VpfLdzu½%  Vp Ldzhu gk ,d fo’ks”k ekWfuVj vlrks- T;koj dsoG
+LdzhuojP;k laosnu’khy Hkkxkyk Li’kZ d#ugh MsVk Hkjrk ;srks- T;keqGs ekWfuVjojhy
+vk;dkWUlyk Li’kZ d#u laca/khr esuw m?kMrk ;srkr- mnk- , Vh ;e e’khu fMikVZesaVy LVksvlZ
+o ekfgrh lsok dsnaz b-
+</string>
+    <string name="p5h25">5½VªWd ckWy½%  VªWdckWy yk jksyj ckWy vls lq/nk Eg.krkr- gk ckWy
+fQjfo.;klkBh vaxB~;kus] cksVkus fdaok rGgkrkpk okij djkok ykxrks- ;k ckWytoG
+lk/kkj.ki.ks rhu cVus vlrkr- T;kapk okij ekÅlP;k cVukalkj[kkp djrk ;srks-
+</string>
+    <string name="p5h26">6½ Vp ljQsl % ;kl VpiWM lq/nk Eg.krkr- ;kP;k i`”BHkkxko#u
+cksV fQjoY;kl ekÅl izek.ksp dk;Z gksrs- fLdzuojhy esuw m?kM.;klkBh ikWbZaVj lnjhy
+vk;dkWuoj fdaok esuqoj usY;kuarj iWMoj VWfiax dsY;kl ekÅlus fDyd dsY;kizek.ksp
+ifj.kke fnlqu ;srks-
+</string>
+    <string name="p5h27">7½ikWbZafVax fLVd % ikWbZafVax fLVd dhcksMZP;k e/;Hkkxh vlrsikWbZafVax
+fLVdpk okij ikWbZaVj fu;af=r dj.;klkBh dsyk tkrks-
+</string>
+
+
+    <string name="p6h1">lax.kdkdMqu izfdz;k gksmu okijdR;kZyk th ekfgrh feGrs R;kl vkÅViqV
+Eg.krkr- </string>
+    <string name="p6h2">vkÅViqV midj.ks lax.kdkoj izfdz;k d#u r;kj dsysyh ekfgrh
+okijdR;kZyk letsy fdaok okprk ;sbZy v’kk Hkk”ksr #ikarjhr djrkr-</string>
+    <string name="p6h3">1½ lax.kdkus dsysyh izfdz;k okijdR;kZyk letsy v’kk Lo#ikr #ikarj dj.kkjs gkMZosvj
+midj.k Eg.kts vkÅViqV midj.ks gks;-
+mnk- ekfW uVj]fizVa j]fLidj b-</string>
+    <string name="p6h4">2½ lax.kdkdMqu okijdR;kZi;Zar ekfgrh ;s.;klkBh T;k lk/kukapk okij gksrks R;kl
+vkmViqV midj.ks Eg.krkr
+</string>
+    <string name="p6h5">ekWfuVj</string>
+    <string name="p6h6">vkÅViqV midj.kkae/;s lokZf/kd izek.kkr okijys tk.kkjs midj.k Eg.kts ekWfuVjgk
+fV-Ogh- lkj[kk vlrks- ekWfUkVj T;k izdkjps vkÅViqV lknj djrs R;kl lkW¶VdkWih
+Eg.krkr- ekWfuVj Eg.kts lax.kdkpk iMnk- ;kykp fOgT;qvy fMLIys ;qfuV
+ Eg.kts n`’;#i nk[ko.kkjk iMnk vlsgh Eg.krkr
+</string>
+    <string name="p6h7">izdkj % pkj izdkjps ekWfuVjlZ cktkjkr miyC/k vkgsr-</string>
+    <string name="p6h8">1½ lh-vkj-Vh- ekWfuVj 2½ ,y-lh-Mh- ekWfuVj 3½ Iyk>ek ekWfuVlZ 4½ ,y-bZ-Mh- ekWfuVj</string>
+    <string name="p6h9">gk ekWfuVj nqjn’kZulapklkj[kk fnlrks- ;k ekWfuVjyk OgWD;qe V;qc
+vlrs- ;kykp vki.k fiDpj V;qc vls lq/nk Eg.krks- ;k ekWfuVjyk
+brj ekWfuVjP;k rqyusr fotiqjoBk o tkxk tkLr ykxrs rlsp gk ekWfuVj
+otukyk tM vlY;kus ,dk fBdk.kkgwu nqljhdMs usvk.k dj.ks dBh.k tkrs R;keqGs
+;kpk okij fnolsfanol deh iezk.kkr gksr pkyyk vkgs- ek= ;k ekfWuVjph Li”Vrk gh brj
+ekWfuVjP;k rqyusr vf/kd pkaxyh vlrs- </string>
+    <string name="p6h10">;k ekWfuVjyk fotiqjoBk o tkxk deh ykxrs
+rlsp otukus gydk vlY;kus fnolsafnol ;k ekWfuVjpk okij okMr
+vkgs- ek= ;k ekWfuVjph Li”Vrk gh lh-vkj-Vh-ekWfuVj P;k rqyusus
+deh vlrs
+</string>
+    <string name="p6h11">fizaVj</string>
+    <string name="p6h12">flfLVe ;qfuVus dsysyh izfdz;k dkxnkoj #ikarjhr dj.;kps dke fizaVj
+djrkr- fizaVj T;k izdkjps vkÅViqV nsrs R;kl gkMZ dkWih vls Eg.krkr
+
+</string>
+
+
+    <string name="p7h1">lkWQ+Vosvj %  </string>
+    <string name="p7h2">dkWEI;qVjP;k varxZr Hkkxkr vl.kkj;k izksxzkEluk ¼,e ,l oMZ] ,Dlsy] vkWDlsl b½ lkWQ+Vosvj vls Eg.krkr </string>
+    <string name="p7h3"> gkMZosvj </string>
+    <string name="p7h4"> dkWEI;qkVjP;k ckg; Hkkxkr vl.kk;k midj.kkauk gkMZosvj midj.ks vls Eg.krkr mnk ekWfuVlZ] fizaVlZ] fdcksMZ] enjcksMZ] LdWuj b midj.kkauk gkMZosvj midj.ks vls Eg.krkr</string>
+    <string name="p7h5"> lkWQ+Vosvj % </string>
+    <string name="p7h6">vki.k fnysY;k ekfgrhoj vkiY;kyk gO;k R;k Lo:ikr ekfgrhps:ikarj dj.;kps dke lkWQ+Vosvjps vlrs ¼ Hkk”kk cny.ks] vkdkj] ‘kSyh] dyj b ½</string>
+    <string name="p7h7">lkWQ+Vosvjps eq[; nksu izdkj iMrkr 1½ vWfIyds’ku lkWQ+Vosvj 2½flfLVe lkWQ+Vosvj </string>
+    <string name="p7h8">1½ vWfIyds’ku lkWQ+Vosvj </string>
+    <string name="p7h9">vWfIyds’ku lkWQ+Vosvj gs FksV okijdR;kZlkBh r;kj dsys xsysys izksxzkEl vlrkr\ lax.kd dsoG gkMZosvj midj.kk}kjsp dks.krsgh dke d: ‘kdr ukgh R;kyk dkghrjh d`rh dj.;klkBh lqpukaph vko’;drk vlrs- lax.kdkyk
+fnyk tk.kkjk lqpukapk lap Eg.ktsp lkWQ+Vosvj gks;-
+ </string>
+    <string name="p7h10">vWfIyds’ku lkWQ+Vosvjps izdkj %</string>
+    <string name="p7h11">1½ cslhd vWfIyds’ku lkWQ+Vosvj:</string>
+    <string name="p7h12">1½ cslhd vWfIyds’ku lkWQ+Vosvj:- toG toG izR;sd {ks=kr ;kpk mi;ksx dsyk tkrks-
+;ke/;s lkekU; fo”k;kaiklwu rs fuoMd fo”k;kalkBh rlsp O;olk;klkBh mi;ksxh iMrhy
+vls gtkjks izksxzkEl vkgsr mnk-
+</string>
+    <string name="p7h13">lkWQ+Vosvj lqV   </string>
+    <string name="p7h14">gk lkWQ+Vosvjpk lap vlrks vki.k osxosxGs vWfIyds’ku [kjsnh
+dj.;kis{kk loZ vWfIyds’kUl ,d= [kjsnhdsyh rj deh fdaer ekstkoh ykxrs mnk-
+</string>
+    <string name="p7h15">2½ flfLVe lkWQ+Vosvj   </string>
+    <string name="p7h16">T;k izekus vWfIyds’ku lkWQ+Vosvjpk mi;ksx yksd djrkr R;kizek.ks ;k lkWQ+Vosvjpk
+mi;ksx Lor% lax.kd djrks ;k lkWQ+Vosvje/;s vkWijsfVax flfLVepk lekos’k gksrks
+  </string>
+    <string name="p7h17">flfLVe lkWQ+Vosvj P;k enrhus vWfIyds’ku lkWQ+Vosvj lax.kdkP;k  gkMZosvj
+‘kh laidZ izLFkkihr djrs- flfLVe lkWQ+Vosvj gs iM|kekxhy lkWQ+Vosvj vkgs- vkf.k rs lax.kdkyk varxZr L=ksrkaps O;oLFkkiudj.;klkBh enr djrs-
+</string>
+
+
+    <string name="p8h1">izk;ejh o lsadaMjh LVksjst </string>
+    <string name="p8h2">dWEI;qVjP;k oSf’k”V;kiSdh ,d egRokps oSf’k”V; Eguts R;k dkWEI;qVjph ekghrh lkBfo.;kph {kerk
+iqohZ dkWEI;qVj vWukykWx Lo:ikrhyp dkes tk;ph T;kea/;s QDr vad vkf.k v{kjs ;kapk ;kapk lekos’k
+vlk;pk v’kk izdkjps  dkes  dj.;klkBh rlsp dkWEI;qVje/;s lkBfo;klkBh rsaOgk izk;ejh LVksjst o lsdaMjh LVksjst midj.kaph {kerk deh vlk;ph ijarq l/;k dkWEI;qVjoj dsY;k tk.kkÚ;k dkekaps Lo:i cnyys vkgs vkrk dkWEI;qVj fMthVy dke dsyh tkrkr T;kaea/;s QDr vad o v{kjs v’kh e;kZfnr u jkgrk R;kea/;s vWfMvks o fOgfMvks Lo:ikrhy ekfgrh r;kj dsth tkr vkgs v’kk izdkjph dkes dkWEI;qVjoj dj.;klkBh R;k dkWEI;qVjph izk;esjh rlsp lsdaMjh LVksjst midj.kkaph ekfgrh lkBfo.;kph {kerk [kqi vlkoh ykxrs-
+</string>
+    <string name="p8h3">izk;ejh LVksjst </string>
+    <string name="p8h4">gk LVksjsstpk izdkj flfLVe ;qfuVP; varckZr Hkkxkr ejncksMZoj fQDl clfoysyk vlrks izk;ejh LVksjst gs rkRiqjR;k Lo:ikps vlrs\ Eg.ktsp ;kea/;s lkBfoysyh ekghrh tksi;Zaaar dkWEI;qVj lq: vlsy rksi;Zarp R;kea/;s vlrs dkWEI;qVj can >kY;kl fdaok dkWEI;qVjyk ,[kknk vMFkGk fuekZ.k >kY;kl ;ke/khy ekfgrh u”V gksrs Eg.kwu izk;ejh LVksjstyk OgksykVkbZy LVksjst vlsgh Eg.krkr-</string>
+    <string name="p8h5">izk;ejh LVksjstps izdkj </string>
+    <string name="p8h6">daI;qVje?;s vki.k tsOgk lqjokrhyk dks.krhgh ekghrh VkbZi djrks - rsOgk rh jWe e?;s lkBoyh tkrs-
+jWeyk OgksykVkbZy OgksykVkbZy LVksjst vlsgh Eg.krkr- daI;qVjpk osxgh cjplk jWeoj voyacqu vlrkr-
+vkrkP;k ufou vkWijsfVax flfLVe deh {kersP;k jWeyk liksVZ dfjr ukgh mnk- foUMkst fOgLVk ;k vkWijsfVat flfLVseyk 1th ch jWe vl.ks vko’;d vkgs izdkj ,l jWse] Mh jWe
+
+;k esejh e/khy ekghrh dkWEI;qVj okijdR;kZyk QDr ikgrk fdaok okprk ;sr ;k eWejh e/;s dkWEI;qVj lq: gks.;klkBhP;k egRokP;k QkbZYl vlrkr jkWeyk QeZosvj ;k ukokusgh vksG[kY;k tkrs-
+izdkj ihjkWe] bihjkWe] bbiksjkWe
+
+</string>
+    <string name="p8h7">lsadaMjh LVksjst </string>
+    <string name="p8h8">lsdaMjh LVksjst midj.kke/;s ekfgr gh dk;eLo:ih lkBfoyh tkrs rlsp izk;ejh LVksjstP;k rqyusr lsdaMjh LVksjst midj.kkae?;s vf/kd ekfgrh lkBfoyh tkrs- dkWEI;qVj can iMY;kl fdaok vMFkGk vkY;kl ;ke/khy ekfgrh u”V gksr ukgh lsdaMjh LVksjst midj.kkae/kqu ekfgrh vWDlsl dj.;kP;k izfdz;syk fjfMax vls Eg.krkr</string>
+    <string name="p8h9">Q+ykWih fMLd %</string>
+    <string name="p8h10">;k fMLdph fufeZrh 1970 lkyh  vk; ch ,e dai.khus dsyh fg fMLd loZlk/kj.ki.ks lkMsrhu bapph vlrs- ;kea/;s 1.44 ,e ch brdh ekfgrh lkBfork ;srs ;kaea/;s Vq ,p Mh gk izdkj loZlk/kj.ki.ks okijyk tkrks-</string>
+    <string name="p8h11">gkMZZfMLd %</string>
+    <string name="p8h12">lsadMjh LVksjst midj.kkae/;s lokZr eksBs LVksjst midj.k Eg.kqu gkMZfMLdpk mi;ksx dsyk tkrks\ gkMZfMLdph fufeZZrh 1973 lkyh vk;-ch-,e dai.khus dsyh- ekfgrh vWDlsl dj.;klkBh gkMZfMLd pqacdh; cykpk mi;ksx djr- rj vWDlsl dsysyh ekfgrh VzWDl] lsDVlZ o flysaMjoj lkBfryh tkrs-</string>
+    <string name="p8h13">gkMZfMLdps izdkj+++</string>
+    <string name="p8h14">1½ baVuZy gkMZfMLd % gk gkMZfMLdpk izdkj flfLVe ;qfuVP;k varxZr Hkkxkr fQDl clfoysyk vlrks- ;k ek;dzks dkWEI;qVjlkBh okij.;kr ;s.kk&amp;;k fMLDph LVksjst {kerk toGikl 10 th-ch rs 1000 th-ch Ik;Zar vlrs- baVuZy gkMZfMLdyk lh MzkbZOg Eg.kqugh vksG[kY;k tkrs-</string>
+    <string name="p8h15">2½ gkMZfLd dkfVZt %
+bzVuZy gkMZZfMLDyk lkg; dj.;klkBh gkMZfMLd dkfVZt pk mi;kzx gksrks- baVuZy gkMZfMLdph LVksjst {kerk 10 rs 20 th-ch brdh vlrs-
+</string>
+    <string name="p8h16">3½ gkMZfMLd iWDl %
+brj gkMZfMLdP;k rqyusr ;k gkMZfMLdph ekfgrh lkBfo.;kph {kerk vf/kd vlrs- esuQsze rlsp feuh dkWEI;qVjlkBh ;k gkMZfMLdpk mi;ksx gksrks-
+</string>
+    <string name="p8h17">vkWIVhdy fMLd %</string>
+    <string name="p8h18">lsdaMjh LVksjst midj.kkaea/;s lokZf/kd ;k midj.kkpk mi;ksx dsyk tkrks- dkj.k vkiY;kyk ;k fMLdea/;s okijdR;kZyk goh r’kh ekfgrh jhM jhbZV djrk ;srs- Q+YkWih fMLdP;k rqyusr ;k fMLdph ekfgrh lkBfo.;kph {kerk vf/kd vlrs- rlsp ;k fMLdoj vWukykWx rlsp fMthVy Lo:ikr ekfgrh lkBfork ;srs- ;k fMLd otukyk gyD;k vlY;keqGs R;k lgtrsus dksBsgh lkscr ?ksoqu tkrk ;srs- vkWIVhdy fMLd ekfgrh vWDlsl dj.k;klkBh ys>j chepk mi;ksx djrs- rlsp vWDlsl dsssysyh ekfgrh vkWIVhdy fMLsd VzWDl o lsDVlZoj lkBfors-</string>
+    <string name="p8h19">vkWfIVdy fMLdps izdkj %</string>
+    <string name="p8h20">dkWEiWDV fMLd % vkWfIVdy fMLdea/;s ;k fMLdpk mi;ksx lokZf/kd gksrks- ;k fMLdea/;s 650 ,e-ch rs 1 th-ch Ik;Zar ekfgrh lkBfork ;srs- ;k fMLdps rhu izdkj iMrkr-</string>
+    <string name="p8h21">1-jhM vksUyh % ;k fMLde/;s vxksnj ,[kknh ekfgrh Hkjysyh vlrs- gh ekfgrh QDr ikgrk fdaok okprk ;sr- uarj okijdR;kZyk ;ke/s;s dks.kR;kgh izdkjpk cny djrk ;sr ukgh-</string>
+    <string name="p8h22">2-jkbV oUl % gk fMLdpk izdkj cktkjkr dksjk HksVrks- ;k e/;s ,dnkp ekfgrh lkBfork ;srs- ijarqj uarj ;ke/;s dkfgp cny djrk ;sr ukgh- </string>
+    <string name="p8h23">3-jhjk;Vscy % jhjk;Vscy fMLdyk bjstcy fMLd fdaok iqufoekZ.k{ke fMLd vlsgh Eg.krk- dkj.k ;k fMLdea/;s fdrhgh osGsl ekfgrh jhM fdaok jkbZV djrk ;srs-</string>
+    <string name="p8h24">fMthVy fOgfMvks @ fMthVy OglZVkbZy fMLd %</string>
+    <string name="p8h25">vkWfIVdy fMLdpk gk izdkj osxkus dkWEIWDV fMLdph tkxk ?ksr vkgs- dkj.k ;k fMLda/;s dkWEIkWDV fMLdP;k rqyusr lrjk iV vf/kd ekfgrh lkBfork ;srs- fMOghMh ph ekfgrh lkBfo.;kph {kerk 4-7 th-ch rs 17 th-ch brdh vlrs- dkWEiWDV fMLd izek.ksp ;k fMLdps rhu izdkj iMrkr- 1-jhM vksUyh 2-jkbV oUl 3-jhjk;Vscy</string>
+
+
+    <string name="p9h1">dkWEI;qVj usVodZ</string>
+    <string name="p9h2">vktP;k vk/kqfud dkGkr dkWEI;qVjP;k enrhus vki.k ?kjclY;k txkea/;s dks.kR;kgh fBdk.kh lgtrsus laidZ lk/kq ‘kdrks- ,desdka’kh laokn lk/k.ks gh ek.klkph iqohZiklquph vkoM vkgs- o QDr vkoM ulqu vkrk rh ,d xjt vkgs- vusd fBdk.kh dk.kR;k u dks.kR;k dkj.kklkBh vki.k njjkst ,desdka’kh laidZ djrks o vkivkilkrY;k ekfgrhph nsok.k ?ksok.k djrk- laokn l/k.;klkBh osxosXkG+;k laidZ ek/;ekpk okij djrks- iqohZP;k rqyus vkrk ,desdkaa’kh laidZ dj.ks vfr’k; osxoku >kys vkgs - ,dfolkO;k ‘krdkea/;s ,dedka’kh laidZ lk/.;klkVh eksckbZy o dkWEI;qVjpk mi;ksx eksB+;k izsek.kkr Ogk;yk ykxyk vkgs- o R;keqGs tx vfr’k; >ikV+;kus vkgs- iqohZP;k laidZ ek/;ekrqu dsoG vWukykZWx Lo:ikr ekfgrhph nsok.k ?ksok.k ‘kD; gksrh- ijarq dkWEI;qVj usVodZeqG laidkZp ifjHkk”kkp cnyqu xsyh vkgs- dkj.k vki.k vkrk txkRkY;k dksuR;kgh dksiÚ;kr dkgh lsdankr vki.k vWukykWx ekfgrh cjscjp fMthVy ekfgrh lq/nk ikBoq ‘kdrks-</string>
+    <string name="p9h3">usVodZ Eg.kts dk; \</string>
+    <string name="p9h4">usVodZ Eg.kts dkWEI;qVjps tkGs T;kea/;s ,dkis{kk vf/kd dkWEI;qVlZ ,desdkauk tksMysy vlrkr. o ;keqGs dkWEI;qVjps dEI;qfuds’ku Eg.kts nksu fdaok vf/kd dkWEI;qVlZ e/khy ekfgrhph nsokt ?ksok.k ‘kD; gksrs- 1965 ea/;s dkWEI;qVj usVofdZxpk tUe >kyk- o R;kuarj vfr’k; deh dkGkr usVodZ gk dkWEI;qVjpk vfr’k; egRokpk Hkkx cuyk vkgs- dkj.k usVofdZxeqGs txkrhu] ns’kkrhy] ‘kgjkrhy fdaok ,dk dk;kZy;krhy loZ dkWEI;qVj ,desdkauk tksMqu ekfgrhph nsok.k ?ksok.k ‘kD; gksrs- usVodZea/;s tks eq[; dkWEI;qVj vlrks Eg.kts T;k dkWEI;qVjdMqu usVodZe/;s tksMysys brj dkWEI;qVj ekfgrh ?ksrkr R;k dkWEI;qVjyk lOgZj vls Eg.krkr- rj ts dkWEI;qVj usVodZe/khy eq[; dkWEI;qVjdMqu ekfgrh ?ksr vlrhy R;kauk Dyk,Va vls Eg.krkr- rlsp usVodZea/;s tksMysY;k izR;sd midj.kkyk uksM vls Eg.krkr-</string>
+    <string name="p9h5">dkWEI;qVj usVodZps izdkj %</string>
+    <string name="p9h6">yksdy ,fj;k usVodZ% \n ;k usVodZea/;s ,d eSy varjki;Zaarps dkWEI;qVj ,desdkauk tksMrk ;srkr- yWupk mi;ksx eq[;r% egkfon+;ky;s] fon+;kfiBs rlsp ‘kkldh; rlsp fue’kkldh; laLFkkr/khy ek;dzks dkWEI;qVj ,desdkauk tksMqu ekfgrhph nsok.k ?ksok.k ‘kD; gksrs-
+</string>
+    <string name="p9h7">esVzksikWfyVu ,fj;k usVodZ % \n ;k usVodZea/;s ngk eSy rs ‘kaHkj eSy vrjki;Zarps dkWEI;qVj ,desdka’kh tksMrk ;srkr- ;k usVodZpk mi;ksx ,dk ‘kgjkrhy dkWEI;qVj ,desdkauk tksM.;klkBh gksrks-</string>
+    <string name="p9h8">okbZM ,fj;k usVodZ % \n gs ,d ns’kO;kih o txO;kih usVodZ vlquk] ;kOnkjs txHkjkrhy dkWEI;qVj ,desdka’kh tksMqu ekfgrh nsok.k ?ksok.k ‘kD; gksrs- ;k usVodZea/;s dkWEI;qVj tksM.;klkBh izR;{k dscypk fdaok mixzgkpk mi;ksx dsyk tkrs-</string>
+    <string name="p9h9">baVjusVps dke dls pkyrs\</string>
+    <string name="p9h10">baVjusV Eg.kts lokZauh feGqu pkyfoysyh lqfo/kk vkgs- baVjusVP;k tkG+;kr lekfo”V vlysY;k nksu dkWEI;qVje/khy ekfgrhph nsok.k ?ksoku fof’k”V fu;ekuqlkj gksrs- T;kyk izksVksdkWWYl o Mksesu use flfLVe ;k nksu i)rhuqlkj tkos ykxrs-</string>
+    <string name="p9h11">1½ izksVksdkWYl \n izksVksdkWYl Eg.kts fof’k”V ekfgrh fof’k”V fBdk.;ki;Zar iksgpfo.;kps fu;e gks;-
+</string>
+    <string name="p9h12">2½Mksesu use flfLVe % \n ;kyk usVodZP;k Hkk”ksr vk;-ih vMzsl vls Eg.krkr- vk;-Ikh vMzsl Eg.kts baVjusVojP;k izR;sd dkWEI;qVjpk ,d fof’k”V iRrk- gk iRrk ,d fof’k”V vdh; vlrks- ijarq vadh; iRrs yksdkaP;k y{kkr jkg.ks vko?kM vlY;keqGs ,d ;=.kk fodflr dsyh ftP;kea/;s vadh; vWMzsl,oth VsDLV csl vWMzslpk okij dsyk tkrks- rlsp gs vWMzsl Lo;apfyr i)rhus ijkofrZr gksrkr-</string>
+    <string name="doman">Domain Name Type Example \n
+.com  Commercial www.yahoo.com \n
+.edu   Educational www.msc.edu \n
+.gov   Government www.maharashtra.gov.in \n
+.org    Organization www.mkcl.org \n in (India), .au(Australia), .uk(United Kingdom).
+</string>
+    <string name="p9h13">usVodZ VkssiksykWth % </string>
+    <string name="p9h14">VkssiksykWth % usVodZP;k tksM.khyk VkssiksykWth vls Eg.krkr-</string>
+    <string name="p9h15">LVkj VkssiksykWth </string>
+    <string name="p9h16">;k VkssiksykWth ea/;s vusd ek;dzksdkWEI;qVj ,dk eq[; dkWEI;qVj tksMysys vlrkr- eq[; dkWEI;qVj gk lOgZj vlrks- ;k VkssiksykWthpk egRokpk Qk;nk Eg.kts gs VkbZe ‘ksvjhax flfLVeyk likZV djrs-</string>
+    <string name="p9h17">cl VkssiksykWth %</string>
+    <string name="p9h18">;k VkssiksykWthea/;s izR;sd midj.k Lor%pk laokn Lor%p fu;f¥r djrkr- ;k usVodZea/;s LVkj VkssiksykWth izek.ks ,d eq[; dkWEI;qVj ulrks- ;k VkssiksykWthyk cWdcksu VksiksykWth vlsgh Eg.krkr-</string>
+    <string name="p9h19">fjax VkssiksykWth % </string>
+    <string name="p9h20">;k VkssiksykWthea/;s izR;sd midj.k brj nksu midj.kkauk tksMysys vlrs- brj usVodZP;k rqyusr ;k usVodZpk mi;ksx deh dsyk tkrks-</string>
+
+
+    <string name="p10h1">izksxzfeax yWXostl+ </string>
+    <string name="p10h2">lax.kd QDr rsp dke d: ‘kdrkr ts dke dj.;kP;k lwpuk R;kauk fnysY;kvlrkr- dks.krsgh dke dj.;klkBh tks lwpukapk lap r;kj dsyk tkrks R;kyk izksxzke Eg.krkr- gs izksxzke izksxzkej ekQZr fofo/k izksxzkfeaz Hkk”kkapk okij d:u fyfgr ;srkr- lax.kdkph izksxzkfeax Hkk”kk Eg.kts fofo/k fo’ks”k ‘kCn vkf.k laKkapk lapk vlrks tss lax.kdkus dk; djkos gs lkaxr vlrkr- izR;sd Hkk”ksps Lor%ps vkf.k O;kdj.kkps ns[khy fu;e vlrkr- T;kP;k enrhus v{kjs vkf.k [kq.kkauk ,df¥ri.ks ekaMwu lax.kdkyk dkeklaca/kh lwpuk nsrk ;srkr- ef’ku yWXost+] vlsaCyh yWXost+] gk; ysoy yWXost+ vkf.k QksFkZ tujs’ku yWXost+ ;kauk oki:u lax.kdklkBh izksxzke fyfgrk ;srkr-</string>
+    <string name="p10h3">ef’ku yWXost~</string>
+    <string name="p10h4">lax.kd QDr f}eku uacj iz.kyhrhy vad 0 vkf.k 1;kaukp letw ‘kdrkr vkf.k R;kojp izfdz;k d: ‘kdrkr- ;kizdkjP;k 0 vkf.k 1 pk okij dsysY;k lwpukau ck;ujh dksM fdaok ef’ku dksM Eg.krkr- iajrq ;kizdkjs ck;ujh vadkapk okij d:u ef’ku yWXost+e/;s izksxzkfeax dj.;klkBh cjkp osG ykxrks vkf.k pqdkaphgh ‘kD;rk vlrs- lqjokrhP;k dkGkrhy lax.kdkrhy izksxzke ;k izdkjP;k ef’ku yWXost+pk okij d:up fyfgys tk;ps- ijarq vkt daik;y;j ukokps fo’ks”k izksxzkEl+ vkiY;k brj Hkk”ksrhy izksxzkEl+yk ef’ku yWXost+e/;s cny.;kps dke djrkr- gs cnyysys izksxzke lax.dkn+okjs izfdz;k dsys tkrkr- ef’ku yWXost+ lokZr [kkyP;k ysOgyph Hkk”kk vlwwu deh izek.kkr ;qtj QzsaMyh vkgs- </string>
+    <string name="p10h5">vlsacyh yWXost </string>
+    <string name="p10h6">;k Hkk”ksse/;s fofo/k fu;sfuDl+@ Lej.k’kDrhyk enr dj.;kj+;k laKkapk okij izksxzke fyfg.;klkBh dsysyk vlrks- gh Hkk”kk izkslslj cjkscj laokn lk/kw ‘kdrs o izkslslj P;k izdkjkoj vk/kkfjr vlrs- izkslslj ps fu;a=.k@ izksxzkfeax T;kauk djk;ps vlsy v’kk baftfu;lZ ekQZr fg Hkk”kk okijyh tkrs-</string>
+    <string name="p10h7">gk; ysoy yWXost+ </string>
+    <string name="p10h8">izksxzkelZyk lwpuk@ izksxzke fyfg.ks lksi Ogkos Eg.kwu gk; ysoy yWXostsl+ fodlhr dsY;k xsY;k- ef’ku vkf.k vlsacyh yWXostP;k rqyusr ;k Hkk”kkae/;s izksxzkEl+ fyfg.ks vkf.k R;kauk okij.ks cjsp lksis vlrs] dkj.k ;k Hkk”kk baxzthe/;s fyfgysY;k vlrkr- csfld] dkscksy] ikLdy]lh] lh$$] fOgch] tkok ;k gk; ysOgy yWXostsl+ vkgsr-</string>
+    <string name="p10h9">QksFkZ tujs’ku yWXost </string>
+    <string name="p10h10">;k Dosjh@ fouarh oj vk/kkfjr@ baVjvWfDVfOgVhoj vk/kkfjr Hkk”kk vlrkr- mnk- LVzDpj Dosjh yWXost ,l-D;q-,y ybR;knh Dosjh oj vk/kkfjr Hkk”kk vkgsr- MkVkcsle/kwu MkVk vWDlsl dj.;klkBh vkf.k R;krwu MkVk xkGwu dk&lt;.;klkBh ;k Hkk”kkapk okij gksrks-</string>
+
+
+
+
+
+
+
+    <string name="p11h1">Lkax.kdh; xqUgs</string>
+    <string name="p11h2">fMftVy xqUgs</string>
+    <string name="p11h3">iwohZP;k dkGh yksd Lor%ph ewY;oku laiRrh pksjkailwu okpfo.;klkBh vkiY;k ?kjkauk dsoG lk/kh dqywis okijk;ps- l/;k] xqUg+;kauk vkGk ?kky.;klkBh O;Drh vkf.k laLFkk vykeZ vkf.k bUQzkjsM fMVsDVlZ ;kalkj[kh vn+;kor midj.ks okijrkr- vktdky loZlkekU;i.ks vk&lt; G.kk&amp;;k lax.kdh; xqUg;kae/;s iq&lt;hy xqUg+;kapk lekos’k gksrk&amp; \n
+1½ekfgrh pksj.ks \n
+  2½;fDrxr ekfgrhpk xSjokij \n
+ 3½dzsfMV dkMZ dzekadkapk xSjokij \n
+ 4½nql&lt;;kP;k ekfgrhe/;s QsjQkj \n
+ 5½vf/kÑr ladsrLFkGs dzWd dj.ks- \n
+</string>
+    <string name="p11h4">ekfgrhpk xSjokij</string>
+    <string name="p11h5">fMftVy xqUgs gs loZlk/kkj.ki.ks eksV;k usVodZeqGs gksr vlrkr- lax.kd gs lkoZtfud usVoDlZ}kjs ,desdkauk tksMysys vlrkr] ts iqUgk brj usVoDlZuk tksMys tkrkr- tsOgk eksB;k usVodZe/kwu ekfgrh LFkykarjhr gksr vlrs] rsOgk rh ekfgrh brjkadMqu dk&lt;wu ?ks.;kph fdaok R;kr QsjQkj dsyh tk.;kph ‘kD;rk vlrs-</string>
+    <string name="p11h6">ekfgrh pksjus</string>
+    <string name="p11h7">usVodZe/kwu ekfgrh LFkykarjhr gksr vlrkuk R;k ekfgrh e/;s QsjQkj gks.;kph ‘kD;rk vlrs o rh ekfgrh brjkadMqu cf?krhyh tk.;kph dk&lt;qu Vkdyh tk.;kph fdaok R;kr QsjQkj dsyh tk.;kph ‘kD;rk vlrs-</string>
+    <string name="p11h8">O;Drhxr ekfgrhpk xSjokij </string>
+    <string name="p11h9">,[kn;k laLFksph ekfgrh R;kr cny dj.;kcjkscjp xqUgsxkj nql&amp;;kP;k O;Drhxr ekfgrhpk xSjokij djrkr- yksd vusd osGk brjka’kh laokn lk/krkauk Lo%rkph O;Drhxr ekfgrh m?kM djrkr- gh ekfgrh usVoDZloj lxG;kalkBh m?kM gksrs] okbZV gsrq ckGx.kkjs gh ekfgrh pqdhP;k ekxkZus okijrkr- </string>
+    <string name="p11h10">dzsMhV dkMZ dzekapk xSjokij</string>
+    <string name="p11h11">l/;k dzsMhV dkMZph yksdizh;rk ok&lt;r vkgs- ,[kn;k ladsrLFkGkoqu lkeku [kjsnh djr vlrkuka R;k ladsrLFkGkrk cWadsps uko o dzsMhV dkMZpk dzekad n;kok ykxrks- o uarj  rh jDde vkiY;k [kkR;krqu dkiqu ?ksryh tkrs- tj ladsrLFkG foÜoLr ulsy rj rqeP;k dzsMhV dkMZ dzekadkpk nqjmi;ksx gks.;kph ‘kD;rk vlr-</string>
+    <string name="p11h12">gWdlZ vkf.k dzWdlZ</string>
+    <string name="p11h13">nql&amp;;kP;k udGr R;kaP;k lax.kdkpk nq#i;ksx djk&amp;;kauk gWdlZ fdaok dzWdlZ vls Eg.krkr-</string>
+    <string name="p11h14">gWdlZ</string>
+    <string name="p11h15">gWdlZ gs c/nheku izksxkzej vlrkr R;kauk lax.kdkph vkf.k izkxzWfeaxP;k Hkk”kkaph l[kksy ekfgrh vlrs- Lor%P;k {kerk ok&lt;fo.;klkBh izksxWzescy jpukapk ‘kks/k ?ks.ks R;kauk vkoMrs
+izksxWzfeax Hkk”kkae/khy ,[k|k leL;slkBh gWd gs [kjks[kj ,d pkaxys lek/kku vkgs- lgt xaer Eg.kqu fdaok vkOgku Eg.kqu gWdlZ nql&amp;;kaph ;a=.k@ ef’ku czsd djrkr- Lor%ps dkS’kY;k vkf.k Kkukps izns’kZu dj.;klkBh fdaok rs fl/n dj.;klkBh rs vls djrkr- rs Lor%P;k dkS’kY;kpk mi;ksx fouk’kdkjh mn~ns’kkalkBh okijr ukghr- loZlk/kkj.ki.ks rs nql&amp;kaP;k flfLVeph lqj{kk riklr vlrkr vkf.k R;krhy mf.kok ‘kks/kwu dk&lt;rkr-
+</string>
+    <string name="p11h16">dzWdlZ </string>
+    <string name="p11h17">nql&amp;;kaph ekfgrh u”V dj.ks fdaok R;kr cny dj.ks v’kk gkuhdkjd dkekalkBh nql&amp;;kaps ef’ku gWd dj.kk&amp;;kauk dzWdlZ Eg.krkr- dzWdlZ ,d vkOgku Eg.kwu fdaok nq”V gsrqus usVoDlZ}kjs nql&amp;;kaP;k lax.kdke/;s f’kjdko djrkr- dzWdlZ xaer Eg.kwu lax.kd gWd djk;yk lq#okr djrkr vkf.k uarj Lor%P;k dkS’kY;kpk okij ‘kkldh; ladsrLFkGs vkf.k vuvf/kÑr ladsrLFkGs gWd dj.;klkBh djrkr- \n
+gWdj gk dzWdj vl.;kph vko’;drk ukgh] i.k dzWdj gk ek= mRre gWdj vlok ykxrks- i.k lkekU;r% yksd ákarhy Qjd vksG[k.;kr vi;’kh Bjr vlY;kus gWd vkf.k dzWd gs nksUgh ‘kCn okjaokj vnykcnyhus okijys tkrkr-
+</string>
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="p12h1">COMPUTER All FULL FORM</string>
+    <string name="p12h2">ALL COMPUTER RELATED FULL FORM</string>
+    <string name="p12h3">Computer = Commonly Operated Machine Particularly Used in Technical and Educational Research
+
+        \n\n
+        CPU = Central Processing Unit \n\n
+
+RAM = Random Access Memory\n\n
+
+ROM = Read Only Memory\n\n
+
+PROM = Programmable Read Only Memory\n\n
+
+EPROM = Erasable PROM\n\n
+
+EEPROM = Electrically EPROM\n\n
+
+HDD = Hard Disk Drive\n\n
+
+FDD = Floppy Disk Drive\n\n
+
+KBD = KeyBoard\n\n
+
+
+I/O = Input / Output\n\n
+
+CD = Compact Disk\n\n
+
+DVD = Digital Video Disk\n\n
+
+SMPS = Switch Mode Power Supply\n\n
+
+POST = Power ON Self Test\n\n
+
+BIOS = Basic Input Output System\n\n
+
+VDU = Visible Display Unit\n\n
+
+LED = Light Embedded Diode\n\n
+
+LCD = Liquid Crystal Display\n\n
+
+USB = Universal Serial Bus\n\n
+
+
+VGA = Video/Visual Graphic Adapter\n\n
+
+LAN = Local Area Network\n\n
+
+WAN = Wide Area Network\n\n
+
+MAN = Metropolitan Area Network\n\n
+
+HLL = High Level Language\n\n
+
+LLL = Low Level Language\n\n
+
+MIPS = Million of Instruction Per Second\n\n
+
+Mbps = Mega Bytes Per second\n\n
+
+Kbps = Kilo Bytes per second\n\n
+
+HTTP = Hyper Text Templates\n\n
+
+
+WWW = World Wide Web\n\n
+
+IP = Internet Protocol\n\n
+
+ISP = Internet Service Provider\n\n
+
+4 Bits = 1 Nibble\n\n
+
+8 Bits = 1 Byte\n\n
+
+1024 Bytes = 1 Kilo Byte ( KB )\n\n
+
+1024 KB = 1 Mega Byte ( MB )\n\n
+
+1024 MB = 1 Gyga Byte ( GB )\n\n
+
+1024 GB = 1 Tera Byte ( TB )\n\n
+
+1024 TB = 1 Peta Byte ( PB )\n\n
+
+1024 PB = 1 Exa Byte ( EB )\n\n
+
+1024 EB = 1 Zetta Byte ( ZB )\n\n
+
+1024 ZB = 1 Yotta Byte ( YB )\n\n
+HTTP - Hyper Text Transfer Protocol.\n\n
+
+HTTPS - Hyper Text Transfer Protocol Secure.\n\n
+
+IP - Internet Protocol.\n\n
+
+URL - Uniform Resource Locator.\n\n
+
+USB - Universal Serial Bus.\n\n
+
+VIRUS - Vital Information Resource Under Seized.\n\n
+
+3G - 3rd Generation.\n\n
+
+GSM - Global System for Mobile Communication.\n\n
+
+CDMA - Code Division Multiple Access.\n\n
+
+UMTS - Universal Mobile Telecommunication System.\n\n
+
+SIM - Subscriber Identity Module.\n\n
+
+AVI - Audio Video Interleave\n\n
+
+RTS - Real Time Streaming\n\n
+
+SIS - Symbian OS Installer File\n\n
+
+AMR - Adaptive Multi-Rate Codec\n\n
+
+JAD - Java Application Descriptor\n\n
+
+JAR - Java Archive\n\n
+
+JAD - Java Application Descriptor\n\n
+
+3GPP - 3rd Generation Partnership Project\n\n
+
+3GP - 3rd Generation Project\n\n
+
+MP3 - MPEG player lll\n\n
+
+MP4 - MPEG-4 video file\n\n
+
+AAC - Advanced Audio Coding\n\n
+
+GIF - Graphic Interchangeable Format\n\n
+
+JPEG - Joint Photographic Expert Group\n\n
+
+BMP - Bitmap\n\n
+
+SWF - Shock Wave Flash\n\n
+
+WMV - Windows Media Video\n\n
+
+WMA - Windows Media Audio\n\n
+
+WAV - Waveform Audio\n\n
+
+PNG - Portable Network Graphics\n\n
+
+DOC - Document (Microsoft Corporation)\n\n
+
+PDF - Portable Document Format\n\n
+
+M3G - Mobile 3D Graphics\n\n
+
+M4A - MPEG-4 Audio File\n\n
+
+NTH - Nokia Theme (series 40)\n\n
+
+THM - Themes (Sony Ericsson)\n\n
+
+MMF - Synthetic Music Mobile Application File\n\n
+
+NRT - Nokia Ringtone\n\n
+
+XMF - Extensible Music File\n\n
+
+WBMP - Wireless Bitmap Image\n\n
+
+DVX - DivX Video\n\n
+
+HTML - Hyper Text Markup Language\n\n
+
+WML - Wireless Markup Language\n\n
+
+CD - Compact Disk.\n\n
+
+DVD - Digital Versatile Disk.\n\n
+
+CRT - Cathode Ray Tube.\n\n
+
+DAT - Digital Audio Tape.\n\n
+
+DOS - Disk Operating System.\n\n
+
+GUI - Graphical User Interface.\n\n
+
+HTTP - Hyper Text Transfer Protocol.\n\n
+
+IP - Internet Protocol.\n\n
+
+ISP - Internet Service Provider.\n\n
+
+TCP - Transmission Control Protocol.\n\n
+
+UPS – Uninterruptible Power Supply.\n\n
+
+HSDPA - High Speed Downlink Packet Access.\n\n
+
+EDGE - Enhanced Data Rate for GSM [Global System for Mobile Communication] Evolution.\n\n
+
+VHF - Very High Frequency.\n\n
+
+UHF - Ultra High Frequency.\n\n
+
+GPRS - General Packet Radio Service.\n\n
+
+WAP - Wireless Application Protocol.\n\n
+
+TCP - Transmission Control Protocol .\n\n
+
+ARPANET - Advanced Research Project Agency Network.\n\n
+
+IBM - International Business Machines.\n\n
+
+HP - Hewlett Packard.\n\n
+
+AM/FM - Amplitude/ Frequency Modulation.\n\n
+
+WLAN - Wireless Local Area Network\n\n
+
+AVI - Audio Video Interleave\n\n
+
+RTS - Real Time Streaming\n\n
+
+SIS - Symbian OS Installer File\n\n
+
+AMR - Adaptive Multi-Rate Codec\n\n
+
+JAD - Java Application Descriptor\n\n
+
+JAR - Java Archive\n\n
+
+JAD - Java Application Descriptor\n\n
+
+3GPP - 3rd Generation Partnership Project\n\n
+
+3GP - 3rd Generation Project\n\n
+
+MP3 - MPEG player lll\n\n
+
+MP4 - MPEG-4 video file\n\n
+
+AAC - Advanced Audio Coding\n\n
+
+GIF - Graphic Interchangeable Format\n\n
+
+JPEG - Joint Photographic Expert Group\n\n
+
+BMP - Bitmap\n\n
+
+SWF - Shock Wave Flash\n\n
+
+WMV - Windows Media Video\n\n
+
+WMA - Windows Media Audio\n\n
+
+WAV - Waveform Audio\n\n
+
+PNG - Portable Network Graphics\n\n
+
+DOC - Document (Microsoft Corporation)\n\n
+
+PDF - Portable Document Format\n\n
+
+M3G - Mobile 3D Graphics\n\n
+
+M4A - MPEG-4 Audio File\n\n
+
+NTH - Nokia Theme (series 40)\n\n
+
+THM - Themes (Sony Ericsson)\n\n
+
+MMF - Synthetic Music Mobile Application File\n\n
+
+NRT - Nokia Ringtone\n\n
+
+XMF - Extensible Music File\n\n
+
+WBMP - Wireless Bitmap Image\n\n
+
+DVX - DivX Video\n\n
+
+HTML - Hyper Text Markup Language\n\n
+
+WML - Wireless Markup Language\n\n
+
+CD - Compact Disk.\n\n
+
+DVD - Digital Versatile Disk.\n\n
+
+CRT - Cathode Ray Tube.\n\n
+
+DAT - Digital Audio Tape.\n\n
+
+DOS - Disk Operating System.\n\n
+
+GUI - Graphical User Interface.\n\n
+
+HTTP - Hyper Text Transfer Protocol.\n\n
+
+IP - Internet Protocol.\n\n
+
+ISP - Internet Service Provider.\n\n
+
+TCP - Transmission Control Protocol.\n\n
+
+UPS - Uninterruptible Power Supply.\n\n
+
+URL - Uniform Resource Locator.\n\n
+
+USB - Universal Serial Bus.\n\n
+
+VIRUS - Vital Information Resource Under Seized.\n\n
+
+3G - 3rd Generation.\n\n
+
+GSM - Global System for Mobile Communication.\n\n
+
+CDMA - Code Division Multiple Access.\n\n
+
+UMTS - Universal Mobile Telecommunication System.\n\n
+
+SIM - Subscriber Identity Module.\n\n
+
+HSDPA - High Speed Downlink Packet Access.\n\n
+
+EDGE - Enhanced Data Rate for\n\n
+
+GSM - [Global System for Mobile Communication] Evolution.\n\n
+
+VHF - Very High Frequency.\n\n
+
+UHF - Ultra High Frequency.\n\n
+
+GPRS - General Packet Radio Service.\n\n
+
+WAP - Wireless Application Protocol.\n\n
+
+TCP - Transmission Control Protocol .\n\n
+
+ARPANET - Advanced Research Project Agency Network.\n\n
+
+IBM - International Business Machine Corporation.\n\n
+
+HP - Hewlett Packard.\n\n
+
+AM/FM - Amplitude/ Frequency Modulation.\n\n
+
+WLAN - Wireless Local Area Network
+
+
+
+
+</string>
+</resources>
+

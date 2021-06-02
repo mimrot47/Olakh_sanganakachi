@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.rkdigitalkedarkheda.gokulmimrot.Olakhsanganakachi.chapter3">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toobar">
+
+        <ImageButton
+            android:id="@+id/backbuttonp3"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_backicon" />
+
+        <TextView
+            android:id="@+id/bottom3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:text="@string/lpageL3"
+            android:textColor="@color/logotext"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.Toolbar>
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adViewp3a1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+    </com.google.android.gms.ads.AdView>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/p3he1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="First Generation 1940-1956:-"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch3img1"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p3h1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p3h1"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p3h2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p3h2"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p3he2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="Second Generation 1956-1963:-"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch3img2"
+                android:layout_gravity="center"/>
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch3img3"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p3h3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p3h3"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adViewp3a2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+            </com.google.android.gms.ads.AdView>
+            <TextView
+                android:id="@+id/p3he3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="Third Generation 1964-1971:-"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch3img4"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:id="@+id/p3h4"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p3h4"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p3he4"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="Fourth Generation 1971 - Present :-"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch3img5"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p3h5"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p3h5"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p3he6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="Intel8080, 8088, Pentium P-60, P-120, P-233, P-II, P-III, P-IV, Dual
+Core, Core 2due, Core i3, Core i5, Core i7,core i9 processor "
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p3h6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p3h6"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p3he7"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="Fifth Generation :-"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch3img6"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p3h7"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p3h7"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adViewp3a3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+            </com.google.android.gms.ads.AdView>
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

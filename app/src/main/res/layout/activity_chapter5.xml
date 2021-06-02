@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.rkdigitalkedarkheda.gokulmimrot.Olakhsanganakachi.chapter5">
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toobar">
+
+        <ImageButton
+            android:id="@+id/backbuttonp5"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_backicon" />
+
+        <TextView
+            android:id="@+id/bottom5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:text="@string/lpageL5"
+            android:textColor="@color/logotext"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.Toolbar>
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adViewp5a1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+    </com.google.android.gms.ads.AdView>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/p5h1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p5h1"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5h2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h2"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p5h3"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5h4"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h4"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h5"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p5h5"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5he1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="1) Traditional Keyboard "
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img1"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5h6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h6"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5he2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="2) Ergonomic Keyboard "
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img2"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5h7"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h7"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5he3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="3) Flexible Keyboard  "
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img3"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5h8"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h8"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5he4"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="4) Wireless Keyboard  "
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img4"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5h9"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h9"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5he5"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="5) P.D.A. Keyboard "
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img5"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5h10"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h10"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adViewp5a2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+            </com.google.android.gms.ads.AdView>
+            <TextView
+                android:id="@+id/p5h11"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p5h11"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5h12"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h12"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h13"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p5h13"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img6"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5he6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="1) Left Button  2) Right  Button  3)Wheel/Scroll Button"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/p5he7"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="1) Left Button :- "
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5h14"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h14"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5he8"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="2) Right  Button :-"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5h15"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h15"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5he9"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="3) Wheel/Scroll Button :- "
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5h16"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h16"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h17"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p5h17"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5h18"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h18"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img7"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5h19"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h19"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img8"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5h20"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h20"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch5img9"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p5h21"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p5h21"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p5h22"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h22"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h23"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h23"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h24"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h24"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h25"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h25"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h26"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h26"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p5h27"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p5h27"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <ImageView
+                android:layout_width="400sp"
+                android:layout_height="300dp"
+                android:src="@drawable/ch5img10"
+                android:layout_gravity="center"/>
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adViewp5a3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+            </com.google.android.gms.ads.AdView>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.rkdigitalkedarkheda.gokulmimrot.Olakhsanganakachi.chapter2">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toobar">
+
+        <ImageButton
+            android:id="@+id/backbuttonp2"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_backicon" />
+
+        <TextView
+            android:id="@+id/bottom1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:text="@string/lpageL2"
+            android:textColor="@color/logotext"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.Toolbar>
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adViewp2a1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+    </com.google.android.gms.ads.AdView>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/p2h1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h1"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch2imag1"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:id="@+id/p2h2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h2"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h3"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch2img2"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p2h4"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h4"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h5"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h5"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p2he1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="(Slide Ruler):- "
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch2img3"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p2h6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h6"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h7"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h7"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p2he2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="(Pascal’s Calculating Machine):-"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch2img4"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p2h8"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h8"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h9"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h9"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adViewp2a2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+            </com.google.android.gms.ads.AdView>
+            <TextView
+                android:id="@+id/p2h10"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h10"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch2img5"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p2h11"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h11"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h12"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h12"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch2img6"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p2h13"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h13"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h14"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h14"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch2img7"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p2h15"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h15"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h16"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h16"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p2h17"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h17"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h18"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h18"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p2h19"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h19"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h20"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h20"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p2h21"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h21"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2h22"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p2h22"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p2h23"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p2h23"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p2hE10"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="ENIAC (Electronic Numerical Integrator
+and Calculator)"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adViewp2a3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+            </com.google.android.gms.ads.AdView>
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

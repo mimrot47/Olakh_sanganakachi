@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.rkdigitalkedarkheda.gokulmimrot.Olakhsanganakachi.chapter7">
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toobar">
+
+        <ImageButton
+            android:id="@+id/backbuttonp7"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_backicon" />
+
+        <TextView
+            android:id="@+id/bottom7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:text="@string/lpageL7"
+            android:textColor="@color/logotext"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.Toolbar>
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adViewp7a1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+    </com.google.android.gms.ads.AdView>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/p7h1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h1"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p7h2"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p7h3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h3"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h4"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p7h4"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p7h5"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h5"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p7h6"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p7h7"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h7"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h8"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h8"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h9"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p7h9"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adViewp7a2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+            </com.google.android.gms.ads.AdView>
+            <TextView
+                android:id="@+id/p7h10"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h10"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h11"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h11"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h12"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p7h12"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p7he1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="MS-WORD, EXCEL, POWEROINT "
+                android:textColor="@color/text"
+                android:textSize="20dp"
+                />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch7img1"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p7h13"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h13"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h14"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p7h14"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p7he2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="MS-OFFICE, OPEN OFFICE etc"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p7h15"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="@string/p7h15"
+                android:textColor="@color/text"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/p7h16"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p7h16"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/p7he3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="4dp"
+                android:text="Windows XP, Vista, Linux etc."
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <ImageView
+                android:layout_width="300sp"
+                android:layout_height="200dp"
+                android:src="@drawable/ch7img3"
+                android:layout_gravity="center"/>
+            <TextView
+                android:id="@+id/p7h17"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="@string/p7h17"
+                android:textColor="@color/text"
+                android:textSize="20dp" />
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adViewp7a3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+            </com.google.android.gms.ads.AdView>
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

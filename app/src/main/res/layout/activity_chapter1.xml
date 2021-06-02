@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.rkdigitalkedarkheda.gokulmimrot.Olakhsanganakachi.chapter1">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toobar">
+
+        <ImageButton
+            android:id="@+id/backbuttonp1"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_backicon" />
+
+        <TextView
+            android:id="@+id/bottom1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:text="@string/lpageL1"
+            android:textColor="@color/logotext"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.Toolbar>
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+    </com.google.android.gms.ads.AdView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="0dp"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/p1h1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="@string/p1h1"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/p1h2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h2"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1h3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="@string/p1h3"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:id="@+id/p1h4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h4"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+
+
+                <TextView
+                    android:id="@+id/p1h5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h5"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ch1img1" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ch1img2" />
+
+                <TextView
+                    android:id="@+id/p1hE1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="Central Processing Unit"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1hE2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="M.U. (Memory Unit) :-"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h6"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1hE3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="C.U. (Control Unit) :-"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h7"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <com.google.android.gms.ads.AdView
+                    xmlns:ads="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/adViewp1a1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentBottom="true"
+                    ads:adSize="BANNER"
+                    ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+                </com.google.android.gms.ads.AdView>
+                <TextView
+                    android:id="@+id/p1hE4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="A.L.U. (Arithmetic Logical Unit) :-"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h8"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1hE5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="INPUT:-"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h9"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1hE6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="INPUT DEVICE:-"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h10"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1h11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h11"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1hE7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="PROCESS:-"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h12"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1hE8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="OUTPUT:-"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h13"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1hE9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="OUTPUT DEVICE:-"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h14"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1h15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h15"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1h16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="@string/p1h16"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h17"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1h18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="@string/p1h18"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h19"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1h20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:padding="4dp"
+                    android:text="@string/p1h20"
+                    android:textColor="@color/text"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/p1h21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h21"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1h22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/p1h22"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <TextView
+                    android:id="@+id/p1hE10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:text="@string/e"
+                    android:textColor="@color/text"
+                    android:textSize="20dp" />
+                <com.google.android.gms.ads.AdView
+                    xmlns:ads="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/adViewp1a2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentBottom="true"
+                    ads:adSize="BANNER"
+                    ads:adUnitId="ca-app-pub-6803124371320620/4237899813">
+                </com.google.android.gms.ads.AdView>
+
+
+
+
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
