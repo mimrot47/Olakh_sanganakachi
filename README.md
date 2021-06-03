@@ -1,1 +1,1 @@
-this is Android app
+Adndroid Application for rural areas students 
